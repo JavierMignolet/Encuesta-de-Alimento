@@ -3,23 +3,38 @@ En una página de encuesta realizado con HTML y CSS
 # Encuesta de Alimento para Perros
 ![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
-## Ejemplo en vivo
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
-
 ## Descripción 📑
 
 En una página de encuesta realizado con HTML y CSS. Uno de los proyectos para la certificación de Desing Web Reponsive
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻 
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+En este proyecto, se creó un formulario de encuesta para recopilar información sobre los hábitos alimenticios y características de las mascotas de los clientes de DOGPRO. A lo largo del desarrollo del formulario, se aplicaron diversos conceptos de HTML y CSS para diseñar una interfaz funcional y estética. A continuación, se detallan los aspectos y habilidades aprendidas durante este proyecto:
+1- Estructura de HTML:
+- Declaración del DOCTYPE
+- Atributos de etiquetas.
+- Incorporación de elementos interactivos.
+  
+2. Estilización con CSS:
+- Selectores y propiedades CSS.
+- Diseño responsivo.
+- Estilización de formularios.
+- Uso de imágenes de fondo.
+
+3. Validación de Formularios:
+- Validación HTML.
+- Control de entradas numéricas.
+
+4. Accesibilidad y Usabilidad:
+- Etiquetado adecuado.
+- Organización del contenido.
+
+En resumen, este proyecto no solo permitió la creación de un formulario funcional y atractivo, sino que también proporcionó una valiosa experiencia práctica en el uso de HTML y CSS para desarrollar interfaces web. La combinación de técnicas de estructuración y estilización aprendidas son fundamentales para futuros desarrollos web, asegurando que los formularios sean intuitivos, accesibles y estéticamente agradables.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://es.wikipedia.org/wiki/JavaScript)
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
@@ -29,17 +44,12 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 
 ## Autor ✒️
-**TU NOMBRE**
+**JAVIER MIGNOLET**
 
-* [micorreo@midominio.com](micorreo@midominio.com)
-* [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-* [Behance](https://www.behance.net/tu-url-de-behance)
-* [Dribble](https://www.dribble.com/tu-url-de-dribble)
-* [Porfolio web](https://tu-dominio.com/)
+* [micorreo@midominio.com](javiermignolet@outlook.com)
+* [LinkedIn](https://www.linkedin.com/in/javier-mignolet-66815615b/)
 
-## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
-  
+
 ## Licencia 📄
 MIT Public License v3.0
 No puede usarse comencialmente.
