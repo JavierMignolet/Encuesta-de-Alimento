@@ -1,7 +1,6 @@
 # Encuesta-de-Alimento
 En una página de encuesta realizado con HTML y CSS
 # Encuesta de Alimento para Perros
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
 
 ## Descripción 📑
 
