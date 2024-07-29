@@ -1,0 +1,58 @@
+body {
+ background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Coat_types_3.jpg/640px-Coat_types_3.jpg); padding:20px; font-family: Copperplate Gothic Bold;
+}
+
+h1{ margin: 1em auto;
+  text-align: center;
+  font-family: Copperplate Gothic Bold}
+
+p{font-family:Californian FB; text-align: center;font-style:italic}
+
+fieldset  { margin: 1em auto;
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid rgb(194, 115, 11);
+}
+
+.encuesta{
+  width: 100%;
+  background-color: rgb(194, 115, 11);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width: 500px;}
+
+  legend{font-family:Cooper Black; font-size: 20px;}
+  
+  
+
+input, textarea {
+  background-color: #ffffff;
+  border: 1px solid #0a0a23;
+  color: #ffffff;}
+
+  
+
+input[type="submit"]{
+  display: block;
+  width: 10%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;}
+  
+ select, textarea {
+  width: 100%;
+  min-height: 1.5em;
+}
+  input{width:10%; margin-left:0px;text-align:left}
+  .nombre{text-align: left; font-family:Cooper Black; font-size: 20px}
+  .relleno{width:100%;min-height: 2em}
+  .cantidad{width:50%;min-height: 2em}
+  .container {
+  text-align: left;
+  padding: 5%;
+}
+  #alimentacion{text-align:left; margin-rigth: 20px  }

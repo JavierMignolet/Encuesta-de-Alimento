@@ -1,0 +1,48 @@
+<!DOCTYLE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+  <title>Formulario de Encuesta Alimento DOGPRO</title>
+  <link rel="stylesheet" href="styles.css"></link></head>
+  <body>
+    <div class="encuesta">
+    <h1 id="title">Formulario de Encuesta Alimento DOGPRO</h1>
+    <p id="description">Tu opinión nos ayudará a mejorar la calidad de vida de tu mascota</p>
+    <div class="container">
+    <form id="survey-form">
+      <fieldset><label id="number-label" class="nombre">Edad<input id="number" type="number" min="2" max="100"  placeholder="18" class="relleno"></input></label>
+      </fieldset>
+      <fieldset>
+        <label for="name" id="name-label" class="nombre" >Nombre<input id="name" type="text" required placeholder="Diego Perez" class="relleno"></input></label></fieldset>
+        <fieldset>
+        <label for="email" id="email-label" class="nombre">Email<input id="email" type="email" required pattern=".+@example\.com" placeholder="Dperez@gmail.com" class="relleno"></input></label></fieldset>
+        <fieldset>
+          <label for="dropdown" class="nombre">Cuantas mascotas tienes?<select id="dropdown" name="dropdown" class="cantidad">
+            <option value="">(select one)</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3 o más">3 o más</option></select></label>
+            </fieldset>
+
+           <fieldset>
+              <legend class="nombre">Cuantas veces al día alimentas a tu mascota</legend>
+              <div id="alimentacion">
+              <input id="alimentacion" type="radio" name="cantidad de veces al dia"  value="2 o mas veces al día" checked ></input><label for="alimentacion">1 vez al día</label>
+             <label for="alimentación"class="radio"><input id="alimentación" type="radio" name="cantidad de veces al dia" value="2 o mas veces al día"></input>2 o mas veces al día</label></div></fieldset>
+<fieldset>
+  <legend class="nombre">Caracteristicas de tu mascota</legend>
+  <label for="activo">
+  <input id="activo" type="checkbox" name="caracteristicas" value="activo" checked>Activo</label> 
+            <input id="perezoso" type="checkbox" name="caracteristicas" value="perezoso"> <label for="perezoso"">Perezoso</label>
+            <input id="joven" type="checkbox" name="caracteristicas" value="joven"> <label for="joven" class="inline">Joven</label>
+            <input id="geronte" type="checkbox" name="caracteristicas" value="geronte"> <label for="geronte" class="inline">Geronte</label></fieldset>
+            <filedset>
+              <label for="comentarios" class="nombre">Comentarios adicionales sobre tu mascota
+          <textarea id="comentarios" name="comentarios" rows="5" cols="65" placeholder="Mi mascota tiene..." class="inline"></textarea>
+        </label>
+      <button id="submit" type="submit">Submit</button>
+      </filedset>
+       </form></div>
+    
+  </body>
+  </meta></html>
