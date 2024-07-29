@@ -36,17 +36,12 @@ En resumen, este proyecto no solo permitió la creación de un formulario funcio
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS)
 
-## Vista previa del proyecto
-Si quieres hechas un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 
 ## Autor ✒️
 **JAVIER MIGNOLET**
 
-* [micorreo@midominio.com](javiermignolet@outlook.com)
+* [javiermignolet@outlook.com](javiermignolet@outlook.com)
 * [LinkedIn](https://www.linkedin.com/in/javier-mignolet-66815615b/)
 
 
